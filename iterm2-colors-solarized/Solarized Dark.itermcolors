@@ -194,11 +194,11 @@
 	<key>Selected Text Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.56363654136657715</real>
+		<real>0.80000000000000004</real>
 		<key>Green Component</key>
-		<real>0.56485837697982788</real>
+		<real>0.80000000000000004</real>
 		<key>Red Component</key>
-		<real>0.50599193572998047</real>
+		<real>0.80000000000000004</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
